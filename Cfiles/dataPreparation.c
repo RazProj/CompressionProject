@@ -1,4 +1,4 @@
-#include "dataPreperation.h"
+#include "dataPreparation.h"
 
 
 void extractCharsAndFreqs(char *filename, char **outChars, int **outFreqs, int *outSize) {
